@@ -1,0 +1,2 @@
+date,sku,error_code,error_message,source_field,submitted_value,corrected_value,status
+2026-10-13,DEMO-001,DEMO-ERROR,Missing required attribute,example_field,,Example Value,Resolved
