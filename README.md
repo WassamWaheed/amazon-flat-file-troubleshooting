@@ -2,6 +2,10 @@
 
 A practical reference for diagnosing Amazon bulk upload and flat-file problems.
 
+## Included Files
+- [Flat File Troubleshooting Checklist](flat_file_checklist.md)
+- [Processing Report Log Template](processing_report_log.csv)
+
 ## Troubleshooting Workflow
 1. Save the original upload and processing report.
 2. Identify affected SKUs and error codes.
